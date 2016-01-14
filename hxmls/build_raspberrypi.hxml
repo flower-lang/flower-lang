@@ -1,0 +1,6 @@
+-main Main
+-D virtual
+-D raspi
+-js raspberrypi/public/js/bin/main.js
+-cp src
+-resource raspi-flower-modules.json@flower-modules

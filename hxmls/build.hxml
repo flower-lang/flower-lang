@@ -1,0 +1,4 @@
+-main Main
+-js exports/js/main.js
+-cp src
+-resource modules.json@flower-modules

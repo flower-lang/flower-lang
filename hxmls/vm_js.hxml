@@ -1,0 +1,3 @@
+-main VMMain
+-js exports/public/js/bin/vm.js
+-cp src

@@ -1,0 +1,45 @@
+[
+	{
+		"name" : "core",
+		"none" : ["Through","Add","Times","Remainder","Filter","Compare","And","Or","Not","Transistor","Gate","TextBox"],
+		"virtualDevice" : []
+	},
+	{
+		"name" : "number",
+		"none" : ["C0","C1","C2","C3","C4","C5","C6","C7","C8","C9"],
+		"virtualDevice" : [] 
+	},
+	{
+		"name" : "math",
+		"none" : ["Abs","Acos","Asin","Atan","Atan2","Cos","Sin","Floor","Log","Max","Min","Pow","Random","Sqrt"],
+		"virtualDevice" : []
+	},
+	{
+		"name" : "system",
+		"none" : ["Speed"],
+		"virtualDevice" : ["Print","Scan"]
+	},
+	{
+		"name" : "snapsvg",
+		"none" : ["Draw"],
+		"virtualDevice" : ["Rect","Circle"]
+	},
+	{
+		"name" : "snapelement",
+		"none" : ["Translate","Fill","MouseDown"],
+		"virtualDevice" : []
+	},{
+		"name" : "map",
+	        "none" : ["Setter", "Getter"],
+                "virtualDevice" : []
+	},{
+		"name" : "string",
+		"none" :	["Split","IndexOf","ChatAt","Substr","Length","LastIndexOf"],
+		"virtualDevice" : []
+	},{
+		"name" : "array",
+		"none" : ["Create","Length","Push","Pop","Shift","Get"],
+		"virtualDevice" : []
+	}
+]
+

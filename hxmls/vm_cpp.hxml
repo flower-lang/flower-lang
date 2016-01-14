@@ -1,0 +1,9 @@
+-main VMMain_cpp
+-cpp bin/vm_cpp
+-cp src
+
+#--next
+
+#-main VMMain_cpp
+#-debug
+#-java bin/vm_java

@@ -1,0 +1,5 @@
+-main Main
+-D codeiq
+-js codeiq/js/main.js
+-cp src
+-resource codeiq-flower-modules.json@flower-modules
