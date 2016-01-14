@@ -28,6 +28,9 @@
     "node": ">=4.2.*"
   },
   "main": "app.js",
+  "bin" : {
+    "flower-lang": "./app.js",
+  },
   "dependencies": {
     "express": "^4.13.3"
   }
