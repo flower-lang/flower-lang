@@ -1,7 +1,7 @@
 {
   "name": "flower-lang",
   "descrption": "data flow language",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "syuhei176",
     "email": "syuhei176@gmail.com"
