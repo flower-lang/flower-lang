@@ -29,3 +29,10 @@ npm start
 
 Please access http://localhost:8888
 
+
+## Authors
+
+FLOWer team
+
+* Shuhei Hiya [@syuhei_hiya](https://twitter.com/syuhei_hiya)
+* Heima Kiyohiko [@kiyopikko](https://twitter.com/kiyopikko)
