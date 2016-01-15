@@ -3,18 +3,19 @@ flower lang
 
 # Install
 
-```
-sudo npm install flower-lang -g
-flower-lang
-```
 
-Please access http://localhost:8888
+1. `sudo npm install -g flower-lang`
+2. `flower-lang`
+3. Open <http://localhost:8888>
+
+
 
 
 # Developer
 
 ## Build
-コードの変更して、適用するときにビルド
+
+nekoをインストール
 
 ```
 >> neko build.n
