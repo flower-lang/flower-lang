@@ -36,3 +36,6 @@ FLOWer team
 
 * Shuhei Hiya [@syuhei_hiya](https://twitter.com/syuhei_hiya)
 * Heima Kiyohiko [@kiyopikko](https://twitter.com/kiyopikko)
+* Yohei Kawano [@bakuonboogie](https://twitter.com/bakuonboogie)
+
+
